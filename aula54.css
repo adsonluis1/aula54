@@ -1,0 +1,27 @@
+@charset 'UTF-8';
+
+/*css principal */
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html , body{
+    width: 100vw;
+    height: 100vh;
+    background-color:#233eff;
+    color: white;
+}
+
+h1{
+    padding: 10px;
+}
+
+.empe{
+    display: none;
+}
+
+.deitada{
+    display: none;
+}

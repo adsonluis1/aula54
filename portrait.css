@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+/*portrait empe */
+
+.empe{
+    display: block;
+}
+
+body{
+    background-image: url(img-aula54/cev-portrait.jpg);
+    background-position: left bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: black;
+}

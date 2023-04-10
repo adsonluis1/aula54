@@ -1,0 +1,14 @@
+@charset 'UTF-8';
+
+/*landscape deitado*/
+
+.deitada{
+    display: block;
+}
+
+body{
+    background-image: url(img-aula54/cev-landscape.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position:bottom center ;
+}
